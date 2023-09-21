@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-saleem-jam-stack-developer" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad-saleem-jam-stack-developer" height="30" width="40" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="muhammad-saleem-jam-stack-developer" height="30" width="40" />
   </a>
 </p>
 
@@ -37,7 +37,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png" alt="MongoDB" width="50" height="50"/>
+  </a>
+   <a href="https://www.php.net/" target="_blank">
+    <img src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="WordPress" width="40" height="40"/>
   </a>
   <!-- Add more icons and links for other languages and tools -->
 </p>
